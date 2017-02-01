@@ -1,13 +1,13 @@
 {
-  "name": "cerebro-plugin",
-  "version": "0.0.2",
+  "name": "cerebro-linux-system",
+  "version": "0.0.1",
   "description": "",
   "license": "MIT",
-  "repository": "KELiON/cerebro-plugin",
+  "repository": "mckennajones/cerebro-linux-system",
   "author": {
-    "name": "Alexandr Subbotin",
-    "email": "kelionweb@gmail.com",
-    "url": "asubbotin.ru"
+    "name": "McKenna Jones",
+    "email": "mjones0014@gmail.com",
+    "url": "github.com/mckennajones"
   },
   "engines": {
     "node": ">=4"
