@@ -10,6 +10,12 @@ const COMMANDS = {
 	'Sleep': {
 		command: "systemctl suspend",
 	},
+	'Trash': {
+		command: "nautilus trash://"
+	},
+	'Empty Trash': {
+		command: "rm -rf ~/.local/share/Trash/*"
+	},
 }
 
 // This function was taken from the cerebro-osx-system plugin
