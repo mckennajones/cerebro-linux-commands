@@ -9,7 +9,6 @@ Available commands:
 * `Restart`
 * `Logout`
 * `Sleep`
-* `Lock`
 * `Shut Down`
 * `Empty Trash`
 * `Trash` - Open trash in file explorer
