@@ -1,4 +1,4 @@
-# cerebro-linux-system
+# cerebro-linux-commands
 
 > [Cerebro](http://www.cerebroapp.com) plugin to execute Linux system commands.
 
