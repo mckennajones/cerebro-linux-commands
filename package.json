@@ -1,6 +1,6 @@
 {
   "name": "cerebro-linux-commands",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Simple Cerebro plugin to execute system commands for linux",
   "license": "MIT",
   "repository": "mckennajones/cerebro-linux-system",
