@@ -2,10 +2,10 @@ const { search, shellCommand } = require('cerebro-tools')
 
 const COMMANDS = {
 	'Restart': {
-		command: "sudo /sbin/reboot",
+		command: "systemctl reboot",
 	},
 	'Shut Down': {
-		command: "sudo /sbin/poweroff",
+		command: "systemctl poweroff",
 	},
 	'Sleep': {
 		command: "systemctl suspend",
