@@ -1,5 +1,7 @@
 # cerebro-linux-commands
 
+Check out [cerebro-linux-system](https://github.com/adrian011494/cerebro-linux-system) by Adrian Herrera instead, it has these features and many more :)
+
 > [Cerebro](http://www.cerebroapp.com) plugin to execute Linux system commands.
 
 ## Usage
